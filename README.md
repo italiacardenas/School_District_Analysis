@@ -12,16 +12,13 @@ The process was automated with Python 3.7.6 and Anaconda 4.9.2 The automation wa
   3. % Passing Math: (.2%)
   4. % Passing Reading: (.3%)
   5. % Overall Passing: (.1%)
-  ![districtsummary.png]
-  (https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/districtsummary.png)
+  ![districtsummary.png](https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/districtsummary.png)
 - **School Summary:** The school summary was not affected aside from the changes in Thomas High School.
 - **Thomas High School (THS) performance relative to other schools (post adjustment):** Follwing the adjustment, the percentage of passing students went down slightly, but it rem,ained in the top 5 schools.
-    ![thssummary]
-  (https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/thssummary.png)
+    ![thssummary](https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/thssummary.png)
 - **How replacing ninth grade scores affected the following:**
   1. **Math and reading scores by grade** were not affected aside from THS ninth grade scores reading NaN.
-  ![mathscores]
-  (https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/mathscores.png) 
+  ![mathscores](https://github.com/italiacardenas/School_District_Analysis/blob/40db5a4eff0cfd1f65c56c461fcb41b8b160586c/Resources/mathscores.png) 
   2. **Scores by school spending:** The adjusted caused the overall passing percentage to slightly decrease scores by school spending by roughly .08 for spending range $630-644.  
   3. **Scores by school size** did not experience significant changes.  
   4. **Scores by school type:** Charter schools experienced a .04 decrease due to the adjustment.  
