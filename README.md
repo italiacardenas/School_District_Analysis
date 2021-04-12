@@ -24,7 +24,7 @@ The process was automated with Python 3.7.6 and Anaconda 4.9.2 The automation wa
   4. **Scores by school type:** Charter schools experienced a .04 decrease due to the adjustment.  
   
 ## School District Analysis Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 1. Total Students - Because the scores for ninth grade students were replaced with NaN the total students count went from 39,170 to 38,709. This adjustment caused a significant impact in the rest of the data analysis.
 2. Charter School data - Thomas High School is a charter school, therefore data regarding the school type also experienced a change.
 3. Thomas High School - Average Reading Score - removing the ninth grade reading scores caused an increase in the Average Reading Score by .05.
